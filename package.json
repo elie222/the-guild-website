@@ -16,14 +16,14 @@
     "graphql": "14.4.2",
     "graphql-toolkit": "0.5.4",
     "graphql-tools": "4.0.5",
-    "next": "9.0.3",
+    "next": "9.0.5",
     "react": "16.8.6",
     "react-dom": "16.8.6",
     "react-feather": "2.0.3",
     "styled-components": "4.3.2"
   },
   "devDependencies": {
-    "@next/bundle-analyzer": "9.0.3",
+    "@next/bundle-analyzer": "9.0.5",
     "@types/fontfaceobserver": "0.0.6",
     "@types/graphql": "14.2.3",
     "@types/node": "12.7.1",
